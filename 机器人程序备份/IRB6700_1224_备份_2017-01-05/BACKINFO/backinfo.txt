@@ -1,0 +1,72 @@
+#
+# Generated backup file, do not edit.
+#
+# Originally at: /hd0a/TEMP/fda1e87d
+# 17-01-05  08:55:22
+#
+>>SYSTEM_ID:
+VIRTUAL_USE
+
+>>PRODUCTS_ID:
+RobotWare Version: 5.61.4009.04
+
+  RW Control module key
+  RobotWare OS and English
+  644-5 Chinese
+  709-x DeviceNet
+  709-1 DeviceNet m/s
+  841-1 EtherNet/IP m/s
+  840-2 PROFIBUS Fieldbus Adapter
+  608-1 World Zones
+  616-1 PC Interface
+  617-1 FlexPendant Interface
+  623-1 Multitasking
+  RW Drive module 1 key
+  ABB standard manipulator
+  IRB 6700
+  Axis 1 standard work range
+  6700-175/3.05
+  No motor fan
+  Drive System 09 66x0/6700
+  No additional drive
+
+>>ROBOT_TYPE:
+6700-175/3.05
+
+>>HOME:
+All public files and directories
+
+>>SYSPAR:
+SYS.cfg
+PROC.cfg
+EIO.cfg
+SIO.cfg
+MOC.cfg
+MMC.cfg
+
+
+>>TASK1: (T_ROB1,,)
+PROGMOD/Wobj_wobj_A3.mod @ wobj_wobj_a3.mod
+SYSMOD/user.sys @ user.sys
+PROGMOD/Wobj_wobj_Pick.mod @ wobj_wobj_pick.mod
+PROGMOD/Wobj_wobj_C.mod @ wobj_wobj_c.mod
+PROGMOD/MainModule.mod @ mainmodule.mod
+PROGMOD/Wobj_wobj_A2.mod @ wobj_wobj_a2.mod
+PROGMOD/Wobj_wobj_B.mod @ wobj_wobj_b.mod
+PROGMOD/Wobj_wobj_B2.mod @ wobj_wobj_b2.mod
+PROGMOD/Wobj_wobj_A1.mod @ wobj_wobj_a1.mod
+PROGMOD/Wobj_wobj_C2.mod @ wobj_wobj_c2.mod
+PROGMOD/Wobj_wobj_A.mod @ wobj_wobj_a.mod
+PROGMOD/Wobj_wobj_B1.mod @ wobj_wobj_b1.mod
+PROGMOD/SafeModle.mod @ safemodle.mod
+PROGMOD/CatchModle.mod @ catchmodle.mod
+PROGMOD/Wobj_wobj_C1.mod @ wobj_wobj_c1.mod
+PROGMOD/PalletData.mod @ palletdata.mod
+PROGMOD/PalletModle.mod @ palletmodle.mod
+
+>>TASK2: (CycleTask,,)
+SYSMOD/user.sys @ user.sys
+PROGMOD/CycleModule.mod @ cyclemodule.mod
+
+
+>>EOF:
